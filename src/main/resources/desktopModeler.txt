@@ -1,0 +1,3 @@
+Cluster URL = cfa2d83d-7c86-4eec-88a5-84c51963f218.syd-1.zeebe.camunda.io:443
+Client ID = 2dO3qtHXo.yB4QuMP~JB5sXzAGxD41VB
+Client Secret = XNrfH0WqFiqlC0m7o_Ic8iy7bK9Hk2DyIscQsL1A7ZzpqIecxj9aYgAD-qwbiC5s
